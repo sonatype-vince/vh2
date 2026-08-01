@@ -47,7 +47,7 @@
     "codemirror": "^6.0.2",
     "cookieconsent": "^3.1.1",
     "ethers": "^5.7.2",
-    "flag-icons": "^6.9.2",
+    "flag-icons": "^7.5.0",
     "font-mfizz": "^2.4.1",
     "jwt-decode": "^4.0.0",
     "lodash-es": "^4.17.21",
