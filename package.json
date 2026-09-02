@@ -154,7 +154,7 @@
     "svg-captcha": "^1.4.0",
     "swagger-ui-express": "^5.0.1",
     "unzipper": "^0.12.3",
-    "winston": "^3.16.0",
+    "winston": "^3.19.0",
     "z85": "^0.0.2",
     "zod": "^4.4.3"
   },
