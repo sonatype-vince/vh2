@@ -181,7 +181,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/jws": "^3.2.10",
-    "@types/lodash": "^4.17.14",
+    "@types/lodash": "^4.17.25",
     "@types/morgan": "^1.9.9",
     "@types/multer": "^2.2.0",
     "@types/node": "^25.9.1",
